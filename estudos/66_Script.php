@@ -1,0 +1,1 @@
+Censura.php esta o Srcipt 66

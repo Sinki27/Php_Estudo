@@ -1,0 +1,1 @@
+ExVerParImpar.php esta o script 62
